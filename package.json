@@ -1,0 +1,21 @@
+{
+  "name": "ts-playwright-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "npm",
+    "TS",
+    "Playwright",
+    "API",
+    "Testing"
+  ],
+  "author": "Abilash Chintalacheruvula",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3"
+  }
+}
